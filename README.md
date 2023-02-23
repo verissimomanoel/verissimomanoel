@@ -7,7 +7,7 @@ I am Manoel Veríssimo, graduated in Technology in Data Processing. I have been 
 - 💻 Software Engineer
 - 💻 Machine Learning Engineer
 - 🎓 M.Sc in AI (NLP)
-- 🎉 41 years old
+- 🎉 42 years old
 - 📌 Brazil
 
 ### Social media:
